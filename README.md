@@ -16,7 +16,7 @@
           }
         </style>
 
-        <script type="text/javascript" src="https://api.longdo.com/map/?key=[YOUR-KEY-API]"></script>
+        <script type="text/javascript" src="https://api.longdo.com/map/?key=[537dd2fe66450697546eecf7e11121c0']"></script>
         <script>
           function init() {
             var map = new longdo.Map({
